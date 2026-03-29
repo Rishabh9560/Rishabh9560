@@ -88,11 +88,13 @@ Interactive memory game with randomized color sequences — pure JS, no librarie
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh9560&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh9560&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
 ---
 
@@ -103,3 +105,8 @@ I'm actively looking for **Software Engineer / Full-Stack Developer** roles (fre
 📧 rishabhrawat0987654@gmail.com
 🔗 [linkedin.com/in/rishabh-rawat-796540252](https://www.linkedin.com/in/rishabh-rawat-796540252)
 
+---
+
+<div align="center">
+  <i>⭐ If you like my work, consider starring a repo!</i>
+</div>
