@@ -3,13 +3,13 @@
 <h3 align="center">Software Engineer | Backend Developer | AI-First Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/rishabh-rawat-796540252/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rishabhrawat0987654@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
+  <a href="https://www.linkedin.com/in/rishabh-rawat-796540252/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
