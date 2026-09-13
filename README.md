@@ -9,7 +9,7 @@
   <a href="mailto:rishabhrawat0987654@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rishabh-rawat-796540252/">
+  <a href="https://rishabh9560.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
