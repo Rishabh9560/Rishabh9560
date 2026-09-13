@@ -1,112 +1,112 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Rishabh Rawat 👋</h1>
 
-# Hey, I'm Rishabh Rawat 👋
+<h3 align="center">Software Engineer | Backend Developer | AI-First Engineer</h3>
 
-### Full-Stack Developer | B.Tech CSE Final Year | Faridabad, India
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishabhrawat0987654@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-*Building real-world apps with Node.js, MongoDB & JavaScript*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Node.js+%7C+Express.js+%7C+MongoDB+%7C+PostgreSQL;AI-powered+development+enthusiast;Open+to+opportunities+%26+relocation" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-rawat-796540252)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhrawat0987654@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishabh9560)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year **B.Tech Computer Science** student at Dronacharya Group of Institutions, Greater Noida
-- 💼 Former **Backend Developer Intern** at Mawai Infotech Limited — built RESTful APIs with Node.js & SQL
-- 🌐 Also interned at **IBM** in web development
-- 🚀 I love building full-stack web apps that solve real problems
-- 📍 Based in Faridabad, Haryana, India
-- 🔍 Currently **open to full-time Software Engineer / Developer roles**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Web**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh9560&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 About Me
 
-### 🏠 [StayEase – Full-Stack Airbnb Clone](https://github.com/Rishabh9560)
-> Node.js · Express.js · MongoDB · EJS · MVC Architecture
-
-A full-featured Airbnb-style platform with user authentication, listings, booking flow, search/filter, and cloud media uploads. Deployed live on Render.
-
-- ✅ Full CRUD with MVC structure
-- ✅ User auth + dynamic views
-- ✅ Cloud storage integration + live deployment
-
----
-
-### 💬 [Quora Post App](https://github.com/Rishabh9560/Quora-Posts)
-> Node.js · Express.js · EJS
-
-Full CRUD post application with EJS-rendered views and Express.js routing.
+- 🎓 B.Tech in Computer Science & Engineering, Dronacharya Group of Institutions (AKTU) — 2022–2026
+- 💼 Backend-focused Software Engineer with experience across two simultaneous internships (Mawai Infotech + IBM)
+- 🛠️ I build RESTful APIs, database-driven applications, and full-stack platforms
+- 🤖 Heavy user of AI-assisted development tools to ship faster and cleaner code
+- 📄 **Resume:** [Download here](YOUR-RESUME-LINK)
+- 🌱 Currently exploring: scalable system design & AI-integrated products
+- 📫 Reach me at: **rishabhrawat0987654@gmail.com**
 
 ---
 
-### 🎮 [Simon Says Game](https://github.com/Rishabh9560/Simonsays-Game)
-> Vanilla JavaScript
+### 🧰 Tech Stack
 
-Interactive memory game with randomized color sequences — pure JS, no libraries.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,react,tailwind,html,css,git,github,aws,firebase,postman,py,java&theme=dark" />
+</p>
 
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| Software Developer Intern | Mawai Infotech Limited | Jul 2024 – Oct 2024 |
-| Web Development Intern | IBM (Virtual) | Jul 2024 – Aug 2024 |
+**AI Tools:** ChatGPT · GitHub Copilot · Claude · Gemini · Cursor AI
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh9560&show_icons=true&theme=tokyonight&hide_border=true)
+**🏡 [StayEase](https://github.com/Rishabh9560/stayease)**
+Full-stack Airbnb-inspired property rental platform with auth, bookings, search & Cloudinary media uploads.
+`Node.js` `Express` `MongoDB` `EJS` `Render`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh9560&layout=compact&theme=tokyonight&hide_border=true)
+</td>
+<td width="50%">
 
-</div>
+**📄 [AI Resume Optimizer](https://github.com/Rishabh9560/ai-resume-optimizer)**
+Parses PDF/DOCX resumes, generates ATS scores, identifies skill gaps using OpenAI/Gemini.
+`React` `Vite` `Prisma` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎓 [CampusXConnect](https://github.com/Rishabh9560/campusxconnect)**
+Unified college networking platform with RBAC, forums, and coding practice modules.
+`Node.js` `React` `PostgreSQL` `AWS`
+
+</td>
+<td width="50%">
+
+**✨ More coming soon**
+Actively building and shipping new projects — check back often!
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+### 📊 GitHub Stats
 
-I'm actively looking for **Software Engineer / Full-Stack Developer** roles (fresher/junior level). If you have an opportunity or just want to connect — reach out!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh9560&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh9560&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-📧 rishabhrawat0987654@gmail.com
-🔗 [linkedin.com/in/rishabh-rawat-796540252](https://www.linkedin.com/in/rishabh-rawat-796540252)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh9560&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
-<div align="center">
-  <i>⭐ If you like my work, consider starring a repo!</i>
-</div>
+### 🏆 Achievements
+
+- ✅ Completed **dual internships simultaneously** (Mawai Infotech + IBM) while maintaining strong academics in final year
+- ✅ **BrowserStack Test University** certified — cross-browser testing & QA
+- ✅ Active GitHub contributor with consistent, version-controlled project history
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh9560&label=Thanks%20for%20visiting&color=blueviolet&style=flat" />
+</p>
+
+<p align="center"><i>Open to relocation • Faridabad, Haryana, India</i></p>
